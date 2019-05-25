@@ -1,5 +1,7 @@
 package AbstractClassAbstractMethod;
 
+// Faltu commnet to sho ho git orks
+
 public abstract class Animal extends TestClass implements TestInterface
 {
 	abstract void move();
@@ -14,7 +16,7 @@ public abstract class Animal extends TestClass implements TestInterface
 	}
 public static void main(String[] args) 
 {
-	//Animal obj=new Animal();
+	//Animal obj=new Animal()
 	TestClass obj=new TestClass();
 }
 }
